@@ -1,0 +1,38 @@
+{
+  "name": "jhfluxxordemo",
+  "version": "1.0.0",
+  "description": "Try out some fluxxor/react stuff.",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.1.1",
+    "fluxxor": "^1.5.2",
+    "jsx-loader": "^0.12.2",
+    "jsxhint": "^0.12.1",
+    "react": "^0.12.2",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.6.0",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "devDependencies": {
+    "fluxxor": "^1.5.2",
+    "jsx-loader": "^0.12.2",
+    "jsxhint": "^0.12.1",
+    "react": "^0.12.2",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.6.0",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-huston/jhfluxxordemo.git"
+  },
+  "author": "James Huston (http://github.com/james-huston)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-huston/jhfluxxordemo/issues"
+  },
+  "homepage": "https://github.com/james-huston/jhfluxxordemo"
+}
